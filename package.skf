@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-diff"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Сравнение строк: расстояние Левенштейна."
+    репозиторий = "github.com/skytech-alt/skyforge-diff"
+    точка_входа = "code/main.skf"
+    теги = ["diff", "levenshtein", "text"]
+    лицензия = "MIT"
+    зависимости = []
+}
